@@ -1,0 +1,3 @@
+include ':wgyUtil'
+include ':app'
+rootProject.name = "wgylib"
